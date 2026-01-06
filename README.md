@@ -46,8 +46,8 @@ Acessar o site da ferramenta e realizar o download do instalador de acordo com o
 1. Clone este repositório com o código abaixo ou realize o download manualmente pelo github:
 
 ```
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto
+git clone https://github.com/maykongpedro/Pesquisa_Operacional_O_Problema_Do_Poeta
+cd Pesquisa_Operacional_O_Problema_Do_Poeta
 ```
 
 2. Crie o ambiente virtual e estale as dependências (esse código é rodado diretamente no terminal):
